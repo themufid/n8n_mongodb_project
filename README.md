@@ -6,7 +6,7 @@
 2. Make file `docker-compose.yml` with the content:
 
 ```yaml
-version: '3.1'
+version: '3.8'
 
 services:
   n8n:
